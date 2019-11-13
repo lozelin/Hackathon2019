@@ -1,7 +1,7 @@
 
 #%%% CURL function to run in your command line 
 
-# When you CURL save all the information into: example-output-video.json
+# When you CURL save all the information into: example-output-character.json
 # To do that; add ">> example-output-character.json" at the end of the given CURL (as in challenge description)
 
 # If you are using postman export the data to example-output-character.json file 
